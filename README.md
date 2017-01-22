@@ -1,2 +1,2 @@
 # bempp-scripts
-Python scripts for performing scattering calculations with BEM++
+Python scripts for performing scattering calculations with BEM++ version 3
